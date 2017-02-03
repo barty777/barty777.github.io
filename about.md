@@ -17,14 +17,15 @@ languages, learned to cooperate with others during complex projects,
 but one thing I am most proud of is that I have learned to solve
 problems in a systematic fashion. This has enabled me to work out any kind of
 obstacle I have faced.</p>
-<p>After finishing my Bachelors in June 2016, I have decided to pursue my Masters on the same
-faculty with Computer Science as my major. My emphasis is on the classes which
+<p>Finishing my Bachelor's in June 2016 has opened the door to the Master's program
+which I have decided to pursue with the Computer Science as my major.
+My emphasis is on the classes which
 are oriented towards machine learning, statistics and data analysis.</p>
 
 <h2>Internships</h2>
 <p>My first role as an intern was in the Summer of 2015 at the company called
-<a href="http://croz.net/en/">CROZ</a>.
-I was working in team with other students on some web
+<a href="http://croz.net/en/">CROZ</a> where
+was working in team with other students on some web
 and mobile apps. At the end of the internship I decided to stay there as a part
 time software developer. During the Summer of 2016 I managed to secure a
 data analyst internship at <a href="http://www.styria.com/en/">Styria</a>.
@@ -33,29 +34,38 @@ science field. Nevertheless, I have successfully
 completed the internship and gained a lot of new knowledge throughout it.</p>
 
 
-<h2>Skills</h2>
+<h2>Free time</h2>
+<p>I'm a very busy and serious man who has no time for fooling around...</p>
+<p>... Well, I lied. Of course I have my free time and I try to use it in a best
+possible way. Or at least this is how I define "best possible way". This time
+is reserved for movies, reading, pointless Web browsing, hanging out with my
+friends, gym and every other thing an average student would do in his free time.
+<br>And yeah, sometimes I have a moment of inspiration and I start working on a personal
+project like this website.</p>
 
+<h2>Skills</h2>
+Here is a showcase of my skills:
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Machine Learning</li>
+	<li>Deep Learning using <a href=">https://www.tensorflow.org/">Tensorflow</a></li>
+	<li>Python (Numpy, Scipy and scikit-learn)</li>
+	<li>Java</li>
+	<li>Linux</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Android</li>
+	<li>Git</li>
+	<li>HTML and CSS</li>
+	<li>Adobe Illustrator, Photoshop and After Effects</li>
+	<li>Fluency in English and Croatian</li>
 </ul>
 
 <h2>Projects</h2>
-
+The list of my projects is the following:
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Bachelor Thesis</a></li>
+	<li><a href="https://github.com/">Lektire</a></li>
+	<li><a href="https://github.com/">Emoscope</a></li>
+	<li><a href="https://github.com/">Conway's game of life</a></li>
+	<li><a href="https://github.com/">Stock Analyzer</a></li>
 </ul>
+
