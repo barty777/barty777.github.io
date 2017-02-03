@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name:  Bartol Freškura
+bio: Just a regular computer scientist without a cliché punchline
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/0B2jw9AHXtUJ_REVHbnFrSHVjZGM/view?usp=sharing
 
-url: https://koppl.in/indigo
+url: https://barty777.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -37,21 +37,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: bfreskura
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: barty777
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: barty777
+#medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: freskura.bartol@gmail.com
 
 authors:
     johndoe:
