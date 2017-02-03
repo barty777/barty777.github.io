@@ -4,19 +4,34 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>It's a me, Bartol! I'm the guy you call when you need help with Machine Learning, 
+Deep Learning or Software Developing.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Education</h2>
+<p>After completing the renowned XV. Gymnasium, I
+have decided to continue my education on the prestigious Croatian faculty, the
+Faculty of Electrical Engineering and Computing also known as under the acronym
+<a href="http://www.fer.unizg.hr/en">FER</a>. During my Bachelor years I have learned a lot about programming,
+algorithms and computer architectures, became an expert in a few programming
+languages, learned to cooperate with others during complex projects,
+but one thing I am most proud of is that I have learned to solve
+problems in a systematic fashion. This has enabled me to work out any kind of
+obstacle I have faced.</p>
+<p>After finishing my Bachelors in June 2016, I have decided to pursue my Masters on the same
+faculty with Computer Science as my major. My emphasis is on the classes which
+are oriented towards machine learning, statistics and data analysis.</p>
+
+<h2>Internships</h2>
+<p>My first role as an intern was in the Summer of 2015 at the company called
+<a href="http://croz.net/en/">CROZ</a>.
+I was working in team with other students on some web
+and mobile apps. At the end of the internship I decided to stay there as a part
+time software developer. During the Summer of 2016 I managed to secure a
+data analyst internship at <a href="http://www.styria.com/en/">Styria</a>.
+This opportunity was a big challenge for me because I had no formal education in the data
+science field. Nevertheless, I have successfully
+completed the internship and gained a lot of new knowledge throughout it.</p>
+
 
 <h2>Skills</h2>
 
