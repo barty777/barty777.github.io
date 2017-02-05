@@ -62,7 +62,9 @@ Here is a showcase of my skills:
 
 ## Projects
 The list of my projects is the following:
-* [Lektire]({{ site.baseurl }}{% post_url 2017-02-03-lektire-app %})
-* [Bachelor Thesis]({{ site.baseurl }}{% post_url 2017-02-05-bachelor-thesis %})
-* [Conway's Game of Life]({{ site.baseurl }}{% post_url 2017-02-05-conway %})
+<ul class="skill-list">
+    <li><a href="/lektire-app">Lektire</a></li>
+    <li><a href="/bachelor-thesis">Bachelor Thesis</a></li>
+    <li><a href="/conway">Conway's Game of Life</a></li>
+</ul>
 
