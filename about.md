@@ -20,7 +20,7 @@ obstacle I have faced.</p>
 <p>Finishing my Bachelor's in June 2016 has opened the door to the Master's program
 which I have decided to pursue with the Computer Science as my major.
 My emphasis is on the classes which
-are oriented towards machine learning, statistics and data analysis.</p>
+are oriented towards machine learning, statistics, and data analysis.</p>
 
 ## Internships
 <p>My first role as an intern was in the Summer of 2015 at the company called
@@ -39,8 +39,8 @@ completed the internship and gained a lot of new knowledge throughout it.</p>
 <p>... Well, I lied. Of course, I have my free time and I try to use it in a best
 possible way. Or at least this is how I define "best possible way". This time
 is reserved for movies, reading, pointless Web browsing, hanging out with my
-friends, gym and every other thing an average student would do in his free time.
-<br>And yeah, sometimes I have a moment of inspiration and I start working on a personal
+friends, gym, and every other thing an average student would do in his free time.
+<br>And yeah, sometimes I have a moment of inspiration so I start working on a personal
 project like this website.</p>
 
 ## Skills

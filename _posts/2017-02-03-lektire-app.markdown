@@ -41,7 +41,7 @@ The application is very simple, press the button to choose a book and read along
 </div>
 
 In every summary you should find the book genre, motives, theme, plot time and
-location, and of course the content summary. The nice thing about the app is
+place, and of course the content summary. The nice thing about the app is
 that all of the **content is baked into the app** itself so there is no need to
 download anything additional. Once you have downloaded the app, the whole
 content is offline and you can read without worrying about the internet
