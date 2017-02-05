@@ -16,7 +16,7 @@ hidden: true # don't count this post in blog pagination
 description: "Post about my Bachelor thesis"
 category: project
 author: bfreskura
-externalLink: true
+externalLink: false
 ---
 For my Bachelor thesis I chose to experiment with deep learning and deep
 recurrent networks. Focus of my work was on sentiment analysis of user comments

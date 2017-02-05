@@ -25,16 +25,16 @@ school senior and had it finished in two months work. This project was
 meant to be an introduction to the world of Android development for me and it turned
 out to be more than that. Not only did I create the app, but I had also learned a lot
 about general programming concepts (I wasn't much of a programming fan back
-then), grasped some basic Java programming, practiced my GUI skills, and learned
+then), grasped some basic Java programming, practised my GUI skills, and learned
 how to distribute an Android application.
 
 The most surprising thing about all of this is how popular has the app become.
 In just a few days it already had more than 1000 downloads and the number was
-increasing day by day. Today it has around 150,000 downloads which is pretty
-popular for such an app.
+increasing day by day. Today it has around 150,000 downloads which is quite a
+lot for such an app.
 
 ## Functionality
-Application is very simple, press the button to choose a book and read along.
+The application is very simple, press the button to choose a book and read along.
 <div class="image">
     <img alt="Books list" src="{{ site.baseurl }}/assets/images/projects/lektire/list.png" width="300">
     <div class="caption">Choose a book from the list and you're good to go</div>

@@ -25,9 +25,9 @@ are oriented towards machine learning, statistics and data analysis.</p>
 ## Internships
 <p>My first role as an intern was in the Summer of 2015 at the company called
 <a class="link" href="http://croz.net/en/">CROZ</a> where
-was working in team with other students on some web
-and mobile apps. At the end of the internship I decided to stay there as a part
-time software developer. During the Summer of 2016 I managed to secure a
+was working in a team with other students on some web
+and mobile apps. At the end of the internship, I decided to stay there as a part
+time software developer. During the Summer of 2016, I managed to secure a
 data analyst internship at <a class="link" href="http://www.styria.com/en/">Styria</a>.
 This opportunity was a big challenge for me because I had no formal education in the data
 science field. Nevertheless, I have successfully
@@ -36,7 +36,7 @@ completed the internship and gained a lot of new knowledge throughout it.</p>
 
 ## Free time
 <p>I'm a very busy and serious man who has no time for fooling around...</p>
-<p>... Well, I lied. Of course I have my free time and I try to use it in a best
+<p>... Well, I lied. Of course, I have my free time and I try to use it in a best
 possible way. Or at least this is how I define "best possible way". This time
 is reserved for movies, reading, pointless Web browsing, hanging out with my
 friends, gym and every other thing an average student would do in his free time.
@@ -50,10 +50,11 @@ Here is a showcase of my skills:
 	<li>Deep Learning using <a href="https://www.tensorflow.org/">Tensorflow</a></li>
 	<li>Python (Numpy, Scipy and scikit-learn)</li>
 	<li>Java</li>
+	<li>Haskell</li>
+	<li>C</li>
 	<li>Linux</li>
 	<li>Git</li>
 	<li>Android</li>
-	<li>Git</li>
 	<li>HTML and CSS</li>
 	<li>Adobe Illustrator, Photoshop and After Effects</li>
 	<li>Fluency in English and Croatian</li>
@@ -62,4 +63,6 @@ Here is a showcase of my skills:
 ## Projects
 The list of my projects is the following:
 * [Lektire]({{ site.baseurl }}{% post_url 2017-02-03-lektire-app %})
+* [Bachelor Thesis]({{ site.baseurl }}{% post_url 2017-02-05-bachelor-thesis %})
+* [Conway's Game of Life]({{ site.baseurl }}{% post_url 2017-02-05-conway %})
 
