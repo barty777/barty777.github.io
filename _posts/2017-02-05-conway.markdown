@@ -16,7 +16,8 @@ author: bfreskura
 externalLink: false
 ---
 
-I have always thought that Conway's Game of Life was some perplexing game which
+I have always thought that Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+was some perplexing game which
 required a degree in rocket engineering to comprehend so one day I decided to
 figure it all out. As it turned out, the game is actually trivial with
 only four rules you have to follow:
@@ -29,14 +30,14 @@ only four rules you have to follow:
 I couldn't believe that such a simple game could yield such interesting results
 so I opened PyCharm and got to work. A few hours a later I had a completely
 functioning Game of Life. Although I haven't tried a lot of seeds, it was
-interesting enough to watch the most basic ones evolve from this:
+interesting enough to watch the most basic ones evolve from a simple shape:
 
 <div class="image">
     <img alt="1st iteration" src="{{ site.baseurl }}/assets/images/projects/conway/start.png" width="300">
     <div class="caption">Started from the bottom...</div>
 </div>
 
-to something like this:
+to a moderately complex structure like this one:
 
 <div class="image">
     <img alt="1st iteration" src="{{ site.baseurl }}/assets/images/projects/conway/stop.png" width="500">

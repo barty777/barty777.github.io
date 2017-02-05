@@ -66,5 +66,6 @@ The list of my projects is the following:
     <li><a href="/lektire-app">Lektire</a></li>
     <li><a href="/bachelor-thesis">Bachelor Thesis</a></li>
     <li><a href="/conway">Conway's Game of Life</a></li>
+    <li><a href="/kindle-parser">Kindle Notes Parser</a></li>
 </ul>
 
