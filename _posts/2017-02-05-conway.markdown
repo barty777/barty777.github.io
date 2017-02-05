@@ -1,0 +1,52 @@
+---
+title: "Conway's Game of Life in Python"
+layout: post
+date: 2017-02-05 15:20
+tag:
+- game of life
+- conway
+- python
+image: /assets/images/projects/conway/header.jpg"
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Post about my Conway's game of life implementation in Python"
+category: project
+author: bfreskura
+externalLink: false
+---
+
+I have always thought that Conway's Game of Life was some perplexing game which
+required a degree in rocket engineering to comprehend so one day I decided to
+figure it all out. As it turned out, the game is actually trivial with
+only four rules you have to follow:
+
+1. Any live cell with fewer than two live neighbours dies (referred to as underpopulation or exposure).
+2. Any live cell with more than three live neighbours dies (referred to as overpopulation or overcrowding).
+3. Any live cell with two or three live neighbours lives, unchanged, to the next generation.
+4. Any dead cell with exactly three live neighbours will come to life.
+
+I couldn't believe that such a simple game could yield such interesting results
+so I opened PyCharm and got to work. A few hours a later I had a completely
+functioning Game of Life. Although I haven't tried a lot of seeds, it was
+interesting enough to watch the most basic ones evolve from this:
+
+<div class="image">
+    <img alt="1st iteration" src="{{ site.baseurl }}/assets/images/projects/conway/start.png" width="300">
+    <div class="caption">Started from the bottom...</div>
+</div>
+
+to something like this:
+
+<div class="image">
+    <img alt="1st iteration" src="{{ site.baseurl }}/assets/images/projects/conway/stop.png" width="500">
+    <div class="caption">... now we're here</div>
+</div>
+
+in just a few hundred of iterations.
+
+One day maybe I will experiment with some more complex seeds, but this is not
+this day. If you're also interested in experimenting, you can always download
+the source code from [here](https://github.com/barty777/conways_game_of_life).
+
+

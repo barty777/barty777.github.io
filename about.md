@@ -4,43 +4,65 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>It's a me, Bartol! I'm the guy you call when you need help with Machine Learning, 
+Deep Learning or Software Developing.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## Education
+<p>After completing the renowned XV. Gymnasium, I
+have decided to continue my education on the prestigious Croatian faculty, the
+Faculty of Electrical Engineering and Computing also known as under the acronym
+<a class="link" href="http://www.fer.unizg.hr/en">FER</a>. During my Bachelor years I have learned a lot about programming,
+algorithms and computer architectures, became an expert in a few programming
+languages, learned to cooperate with others during complex projects,
+but one thing I am most proud of is that I have learned to solve
+problems in a systematic fashion. This has enabled me to work out any kind of
+obstacle I have faced.</p>
+<p>Finishing my Bachelor's in June 2016 has opened the door to the Master's program
+which I have decided to pursue with the Computer Science as my major.
+My emphasis is on the classes which
+are oriented towards machine learning, statistics, and data analysis.</p>
 
-<h2>Skills</h2>
+## Internships
+<p>My first role as an intern was in the Summer of 2015 at the company called
+<a class="link" href="http://croz.net/en/">CROZ</a> where
+was working in a team with other students on some web
+and mobile apps. At the end of the internship, I decided to stay there as a part
+time software developer. During the Summer of 2016, I managed to secure a
+data analyst internship at <a class="link" href="http://www.styria.com/en/">Styria</a>.
+This opportunity was a big challenge for me because I had no formal education in the data
+science field. Nevertheless, I have successfully
+completed the internship and gained a lot of new knowledge throughout it.</p>
 
+
+## Free time
+<p>I'm a very busy and serious man who has no time for fooling around...</p>
+<p>... Well, I lied. Of course, I have my free time and I try to use it in a best
+possible way. Or at least this is how I define "best possible way". This time
+is reserved for movies, reading, pointless Web browsing, hanging out with my
+friends, gym, and every other thing an average student would do in his free time.
+<br>And yeah, sometimes I have a moment of inspiration so I start working on a personal
+project like this website.</p>
+
+## Skills
+Here is a showcase of my skills:
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Machine Learning</li>
+	<li>Deep Learning using <a href="https://www.tensorflow.org/">Tensorflow</a></li>
+	<li>Python (Numpy, Scipy and scikit-learn)</li>
+	<li>Java</li>
+	<li>Haskell</li>
+	<li>C</li>
+	<li>Linux</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Android</li>
+	<li>HTML and CSS</li>
+	<li>Adobe Illustrator, Photoshop and After Effects</li>
+	<li>Fluency in English and Croatian</li>
 </ul>
 
-<h2>Projects</h2>
+## Projects
+The list of my projects is the following:
+* [Lektire]({{ site.baseurl }}{% post_url 2017-02-03-lektire-app %})
+* [Bachelor Thesis]({{ site.baseurl }}{% post_url 2017-02-05-bachelor-thesis %})
+* [Conway's Game of Life]({{ site.baseurl }}{% post_url 2017-02-05-conway %})
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
