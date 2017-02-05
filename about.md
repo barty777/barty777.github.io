@@ -11,7 +11,7 @@ Deep Learning or Software Developing.</p>
 <p>After completing the renowned XV. Gymnasium, I
 have decided to continue my education on the prestigious Croatian faculty, the
 Faculty of Electrical Engineering and Computing also known as under the acronym
-<a href="http://www.fer.unizg.hr/en">FER</a>. During my Bachelor years I have learned a lot about programming,
+<a class="link" href="http://www.fer.unizg.hr/en">FER</a>. During my Bachelor years I have learned a lot about programming,
 algorithms and computer architectures, became an expert in a few programming
 languages, learned to cooperate with others during complex projects,
 but one thing I am most proud of is that I have learned to solve
@@ -24,11 +24,11 @@ are oriented towards machine learning, statistics and data analysis.</p>
 
 <h2>Internships</h2>
 <p>My first role as an intern was in the Summer of 2015 at the company called
-<a href="http://croz.net/en/">CROZ</a> where
+<a class="link" href="http://croz.net/en/">CROZ</a> where
 was working in team with other students on some web
 and mobile apps. At the end of the internship I decided to stay there as a part
 time software developer. During the Summer of 2016 I managed to secure a
-data analyst internship at <a href="http://www.styria.com/en/">Styria</a>.
+data analyst internship at <a class="link" href="http://www.styria.com/en/">Styria</a>.
 This opportunity was a big challenge for me because I had no formal education in the data
 science field. Nevertheless, I have successfully
 completed the internship and gained a lot of new knowledge throughout it.</p>
