@@ -24,7 +24,7 @@ are oriented towards machine learning, statistics, and data analysis.</p>
 
 ## Internships
 <p>My first role as an intern was in the Summer of 2015 at the company called
-<a class="link" href="http://croz.net/en/">CROZ</a> where
+<a class="link" href="http://croz.net/en/">CROZ</a> where I
 was working in a team with other students on some web
 and mobile apps. At the end of the internship, I decided to stay there as a part
 time software developer. During the Summer of 2016, I managed to secure a
@@ -66,5 +66,6 @@ The list of my projects is the following:
     <li><a href="/lektire-app">Lektire</a></li>
     <li><a href="/bachelor-thesis">Bachelor Thesis</a></li>
     <li><a href="/conway">Conway's Game of Life</a></li>
+    <li><a href="/kindle-parser">Kindle Notes Parser</a></li>
 </ul>
 

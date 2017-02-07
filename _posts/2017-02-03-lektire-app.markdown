@@ -7,12 +7,11 @@ tag:
 - books
 - school
 - lektire
-image: /assets/images/projects/lektire/lektire_header.png
+image: /assets/images/projects/lektire/lektire_header.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Post about Android application Lektire"
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 category: project
 author: bfreskura
 externalLink: false
@@ -36,7 +35,7 @@ lot for such an app.
 ## Functionality
 The application is very simple, press the button to choose a book and read along.
 <div class="image">
-    <img alt="Books list" src="{{ site.baseurl }}/assets/images/projects/lektire/list.png" width="300">
+    <img alt="Books list" src="{{ site.baseurl }}/assets/images/projects/lektire/list.jpg" width="300">
     <div class="caption">Choose a book from the list and you're good to go</div>
 </div>
 
@@ -48,7 +47,7 @@ content is offline and you can read without worrying about the internet
 connection.
 
 <div class="image">
-    <img alt="Antigone" src="{{ site.baseurl }}/assets/images/projects/lektire/antigona.png" width="300">
+    <img alt="Antigone" src="{{ site.baseurl }}/assets/images/projects/lektire/antigona.jpg" width="300">
     <div class="caption">Summary example from the <i>Antigone</i></div>
 </div>
 
